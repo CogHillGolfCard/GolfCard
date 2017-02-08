@@ -3,7 +3,7 @@
 
 Golf card start screen Options and sub-options
 * New game (button)
-   * find course (button) 
+   * find course (button) opens new course selection screen
      * Enter zip code (text box) or search by name (text box)?
    * manual entry (button)?
      * How many holes (text box)?
